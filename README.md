@@ -1,1 +1,1 @@
-#a redesign of sntf website
+a redesign of sntf website
