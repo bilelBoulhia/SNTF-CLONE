@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "paWAjAP0nd1XYF2qeSWpvsfBJ4ASLyVurzTJ7TF1la4=",
+  "Source": "SNTF.Server",
+  "BasePath": "_content/SNTF.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Origin Systems\\source\\repos\\SNTF\\sntf.client\\sntf.client.esproj",
+      "Version": 2,
+      "Source": "sntf.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

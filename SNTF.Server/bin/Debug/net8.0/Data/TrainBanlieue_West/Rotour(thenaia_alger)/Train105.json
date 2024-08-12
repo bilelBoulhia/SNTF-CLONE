@@ -1,0 +1,84 @@
+﻿{
+  "Status": "Ciculer Tous jours",
+  "Numero": "105",
+  "Linge": "Ligne de banlieue - Automotrice",
+  "Horraires": [
+    {
+      "Station": "Thenia",
+      "Departure": "6:44"
+    },
+    {
+      "Station": "Tidjelabin",
+      "Departure": "6:47"
+    },
+    {
+      "Station": "Boumerdes",
+      "Departure": "6:50"
+    },
+    {
+      "Station": "Corso",
+      "Departure": "6:54"
+     
+    },
+    {
+      "Station": "Boudouaou",
+      "Departure": "6:57"
+   
+    },
+    {
+      "Station": "Reghaia",
+      "Departure": "7:00"
+    },
+    {
+      "Station": "ReghaiaInd",
+      "Departure": "7:01" 
+    },
+    {
+      "Station": "RouibaInd",
+      "Departure": "7:04" 
+    },
+    {
+      "Station": "Rouiba",
+      "Departure": "7:06"
+    },
+    {
+      "Station": "DarElbeida",
+      "Departure": "7:11"
+    },
+    {
+      "Station": "BabEzouar",
+      "Departure": "7:14"
+    },
+    
+    {
+      "Station": "OuedSmar",
+      "Departure": "7:17"
+    },
+    {
+      "Station": "ElHarrach",
+      "Departure": "7:20"
+    },
+    {
+      "Station": "Caroubier",
+      "Departure": "7:23"
+    },
+    {
+      "Station": "HusseinDey",
+      "Departure": "7:26"
+    },
+    {
+      "Station": "Ateliers",
+      "Departure": "7:30"
+    },
+    {
+      "Station": "Agha",
+      "Departure": "7:33"
+    },
+    
+    
+    {
+      "Station": "Alger",
+      "Departure": "7:36"
+    }
+  ]
+}

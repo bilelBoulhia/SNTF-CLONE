@@ -1,0 +1,16 @@
+C:\Users\Origin Systems\source\repos\SNTF\SNTF.Server\obj\Release\net8.0\PubTmp\Out\SNTF.Server.exe
+C:\Users\Origin Systems\source\repos\SNTF\SNTF.Server\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Origin Systems\source\repos\SNTF\SNTF.Server\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Origin Systems\source\repos\SNTF\SNTF.Server\obj\Release\net8.0\PubTmp\Out\Data\TrainBanlieue_West\Aller(alger-thenia)\Train25.json
+C:\Users\Origin Systems\source\repos\SNTF\SNTF.Server\obj\Release\net8.0\PubTmp\Out\Data\TrainBanlieue_West\Aller(alger-thenia)\Train31.json
+C:\Users\Origin Systems\source\repos\SNTF\SNTF.Server\obj\Release\net8.0\PubTmp\Out\Data\TrainBanlieue_West\Rotour(thenaia_alger)\Train105.json
+C:\Users\Origin Systems\source\repos\SNTF\SNTF.Server\obj\Release\net8.0\PubTmp\Out\SNTF.Server.dll
+C:\Users\Origin Systems\source\repos\SNTF\SNTF.Server\obj\Release\net8.0\PubTmp\Out\SNTF.Server.deps.json
+C:\Users\Origin Systems\source\repos\SNTF\SNTF.Server\obj\Release\net8.0\PubTmp\Out\SNTF.Server.runtimeconfig.json
+C:\Users\Origin Systems\source\repos\SNTF\SNTF.Server\obj\Release\net8.0\PubTmp\Out\SNTF.Server.pdb
+C:\Users\Origin Systems\source\repos\SNTF\SNTF.Server\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\Origin Systems\source\repos\SNTF\SNTF.Server\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Origin Systems\source\repos\SNTF\SNTF.Server\obj\Release\net8.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\Origin Systems\source\repos\SNTF\SNTF.Server\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Origin Systems\source\repos\SNTF\SNTF.Server\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Origin Systems\source\repos\SNTF\SNTF.Server\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

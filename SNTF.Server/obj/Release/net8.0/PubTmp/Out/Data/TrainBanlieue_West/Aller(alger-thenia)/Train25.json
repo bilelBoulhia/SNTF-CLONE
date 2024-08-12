@@ -1,0 +1,79 @@
+﻿{
+  "Status": "Ciculer Tous jours",
+  "Numero": "25",
+  "Linge": "Ligne de banlieue - Automotrice",
+  "Horraires": [
+    {
+      "Station": "Alger",
+      "Departure": "5:55"
+    },
+    {
+      "Station": "Agha",
+      "Departure": "5:58"
+    },
+    {
+      "Station": "Ateliers",
+      "Departure": "6:02"
+    },
+    {
+      "Station": "HusseinDey",
+      "Departure": "6:06"
+    },
+    {
+      "Station": "Caroubier",
+      "Departure": "6:09"
+    },
+    {
+      "Station": "ElHarrach",
+      "Departure": "6:12"
+    },
+    {
+      "Station": "OuedSmar",
+      "Departure": "6:18"
+    },
+    {
+      "Station": "BabEzouar",
+      "Departure": "6:21"
+    },
+    {
+      "Station": "DarElbeida",
+      "Departure": "6:25"
+    },
+    {
+      "Station": "Rouiba",
+      "Departure": "6:30"
+    },
+    {
+      "Station": "RouibaInd",
+      "Departure": "6:32"
+    },
+    {
+      "Station": "ReghaiaInd",
+      "Departure": "6:34"
+    },
+    {
+      "Station": "Reghaia",
+      "Departure": "6:35"
+    },
+    {
+      "Station": "Boudouaou",
+      "Departure": "6:41"
+    },
+    {
+      "Station": "Corso",
+      "Departure": "6:44"
+    },
+    {
+      "Station": "Boumerdes",
+      "Departure": "6:48"
+    },
+    {
+      "Station": "Tidjelabin",
+      "Departure": "6:52"
+    },
+    {
+      "Station": "Thenia",
+      "Departure": "6:57"
+    }
+  ]
+}

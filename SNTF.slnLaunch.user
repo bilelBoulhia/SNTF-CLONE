@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "SNTF.Server\\SNTF.Server.csproj",
+        "Action": "Start"
+      },
+      {
+        "Name": "sntf.client\\sntf.client.esproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

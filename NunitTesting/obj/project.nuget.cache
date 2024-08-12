@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "0g3j4J56w7UF5lqwkKOIwV0O4wJmtu+pOsS8g7lVLq0/+9LL8SHBc5dBhIe1p7m6/DxQsyyXkJ6t85aZwF23zA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Origin Systems\\source\\repos\\SNTF\\NunitTesting\\NunitTesting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Origin Systems\\.nuget\\packages\\microsoft.codecoverage\\17.10.0-release-24177-07\\microsoft.codecoverage.17.10.0-release-24177-07.nupkg.sha512",
+    "C:\\Users\\Origin Systems\\.nuget\\packages\\microsoft.net.test.sdk\\17.10.0-release-24177-07\\microsoft.net.test.sdk.17.10.0-release-24177-07.nupkg.sha512",
+    "C:\\Users\\Origin Systems\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.10.0-release-24177-07\\microsoft.testplatform.objectmodel.17.10.0-release-24177-07.nupkg.sha512",
+    "C:\\Users\\Origin Systems\\.nuget\\packages\\microsoft.testplatform.testhost\\17.10.0-release-24177-07\\microsoft.testplatform.testhost.17.10.0-release-24177-07.nupkg.sha512",
+    "C:\\Users\\Origin Systems\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Origin Systems\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\Origin Systems\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\Origin Systems\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

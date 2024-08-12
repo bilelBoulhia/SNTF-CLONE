@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\Origin Systems\\source\\repos\\SNTF\\SNTF.Server\\..\\sntf.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
